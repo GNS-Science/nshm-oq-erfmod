@@ -1,0 +1,137 @@
+[
+  {
+    "level": {
+      "name": "Fault Model",
+      "shortName": "FM",
+      "enumClass": "scratch.UCERF3.enumTreeBranches.FaultModels"
+    },
+    "value": {
+      "name": "Fault Model 3.1",
+      "shortName": "FM3_1",
+      "prefix": "FM3_1",
+      "weight": 0.5,
+      "enumClass": "scratch.UCERF3.enumTreeBranches.FaultModels",
+      "enumName": "FM3_1"
+    }
+  },
+  {
+    "level": {
+      "name": "Deformation Model",
+      "shortName": "DM",
+      "enumClass": "scratch.UCERF3.enumTreeBranches.DeformationModels"
+    },
+    "value": {
+      "name": "Zeng B-Fault Bounded",
+      "shortName": "ZENGBB",
+      "prefix": "ZENGBB",
+      "weight": 0.3,
+      "enumClass": "scratch.UCERF3.enumTreeBranches.DeformationModels",
+      "enumName": "ZENGBB"
+    }
+  },
+  {
+    "level": {
+      "name": "Scaling Relationship",
+      "shortName": "Scale",
+      "enumClass": "scratch.UCERF3.enumTreeBranches.ScalingRelationships"
+    },
+    "value": {
+      "name": "Stirling_2021_Simplified NZ Interface (Mean bound)",
+      "shortName": "SMPL_NZ_INT_MN",
+      "prefix": "SMPL_NZ_INT_MN",
+      "weight": 0.0,
+      "enumClass": "scratch.UCERF3.enumTreeBranches.ScalingRelationships",
+      "enumName": "SMPL_NZ_INT_MN"
+    }
+  },
+  {
+    "level": {
+      "name": "Slip Along Rupture Model (Dsr)",
+      "shortName": "Dsr",
+      "enumClass": "scratch.UCERF3.enumTreeBranches.SlipAlongRuptureModels"
+    },
+    "value": {
+      "name": "Uniform",
+      "shortName": "Uni",
+      "prefix": "DsrUni",
+      "weight": 0.5,
+      "enumClass": "scratch.UCERF3.enumTreeBranches.SlipAlongRuptureModels",
+      "enumName": "UNIFORM"
+    }
+  },
+  {
+    "level": {
+      "name": "Inversion Model",
+      "shortName": "IM",
+      "enumClass": "scratch.UCERF3.enumTreeBranches.InversionModels"
+    },
+    "value": {
+      "name": "Characteristic (Constrained)",
+      "shortName": "CharConst",
+      "prefix": "CharConst",
+      "weight": 1.0,
+      "enumClass": "scratch.UCERF3.enumTreeBranches.InversionModels",
+      "enumName": "CHAR_CONSTRAINED"
+    }
+  },
+  {
+    "level": {
+      "name": "Total Mag 5 Rate",
+      "shortName": "M5Rate",
+      "enumClass": "scratch.UCERF3.enumTreeBranches.TotalMag5Rate"
+    },
+    "value": {
+      "name": "7.9",
+      "shortName": "7.9",
+      "prefix": "M5Rate7.9",
+      "weight": 0.6,
+      "enumClass": "scratch.UCERF3.enumTreeBranches.TotalMag5Rate",
+      "enumName": "RATE_7p9"
+    }
+  },
+  {
+    "level": {
+      "name": "MMax Off Fault",
+      "shortName": "MMaxOFf",
+      "enumClass": "scratch.UCERF3.enumTreeBranches.MaxMagOffFault"
+    },
+    "value": {
+      "name": "7.6",
+      "shortName": "7.6",
+      "prefix": "MMaxOff7.6",
+      "weight": 0.8,
+      "enumClass": "scratch.UCERF3.enumTreeBranches.MaxMagOffFault",
+      "enumName": "MAG_7p6"
+    }
+  },
+  {
+    "level": {
+      "name": "Moment Rate Fixes",
+      "shortName": "MomRateFix",
+      "enumClass": "scratch.UCERF3.enumTreeBranches.MomentRateFixes"
+    },
+    "value": {
+      "name": "No Moment Rate Fixes",
+      "shortName": "NoFix",
+      "prefix": "NoFix",
+      "weight": 1.0,
+      "enumClass": "scratch.UCERF3.enumTreeBranches.MomentRateFixes",
+      "enumName": "NONE"
+    }
+  },
+  {
+    "level": {
+      "name": "Spatial Seismicity PDF",
+      "shortName": "SpatSeis",
+      "enumClass": "scratch.UCERF3.enumTreeBranches.SpatialSeisPDF"
+    },
+    "value": {
+      "name": "UCERF3",
+      "shortName": "U3",
+      "prefix": "SpatSeisU3",
+      "weight": 0.5,
+      "enumClass": "scratch.UCERF3.enumTreeBranches.SpatialSeisPDF",
+      "enumName": "UCERF3"
+    }
+  }
+]

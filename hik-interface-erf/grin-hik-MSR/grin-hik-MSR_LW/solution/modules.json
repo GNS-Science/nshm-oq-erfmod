@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Annealing Progress",
+    "className": "scratch.UCERF3.simulatedAnnealing.completion.AnnealingProgress",
+    "path": "solution/",
+    "assets": [
+      "annealing_progress.csv"
+    ]
+  }
+]
