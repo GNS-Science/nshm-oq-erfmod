@@ -4,7 +4,7 @@ xmlns="http://openquake.org/xmlns/nrml/0.5"
 xmlns:gml="http://www.opengis.net/gml"
 >
     <sourceModel
-    investigation_time="50.0"
+    investigation_time="1.0"
     name="Hikurangi"
     >
         <sourceGroup
@@ -17,7 +17,7 @@ xmlns:gml="http://www.opengis.net/gml"
             name="Hikurangi"
             >
                 <multiPlanesRupture
-                probs_occur="0.9999907843290986 9.215670901396855e-06"
+                probs_occur="0.9999998156857497 1.8431425030662751e-07"
                 >
                     <magnitude>
                         7.399331996948359
@@ -28,7 +28,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9999862778972332 1.372210276684438e-05"
+                probs_occur="0.9999997255560994 2.7444390060527013e-07"
                 >
                     <magnitude>
                         9.201426770601453
@@ -39,7 +39,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.896692615109192 0.10330738489080804"
+                probs_occur="0.9978215331768278 0.0021784668231722426"
                 >
                     <magnitude>
                         7.031513251089486
@@ -50,7 +50,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9549744647993405 0.04502553520065955"
+                probs_occur="0.9990790108253328 0.0009209891746672083"
                 >
                     <magnitude>
                         7.156494887363408
@@ -61,7 +61,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9868215019009167 0.013178498099083336"
+                probs_occur="0.9997347130939617 0.00026528690603833116"
                 >
                     <magnitude>
                         7.457411897289385
@@ -72,7 +72,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9995961127237791 0.00040388727622087117"
+                probs_occur="0.999991920655425 8.079344575029346e-06"
                 >
                     <magnitude>
                         7.55429469402789
@@ -83,7 +83,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9999048942979274 9.510570207260649e-05"
+                probs_occur="0.9999980977973111 1.9022026889192745e-06"
                 >
                     <magnitude>
                         9.200448010424289
@@ -94,7 +94,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9935680147398577 0.0064319852601423255"
+                probs_occur="0.9998709531351544 0.00012904686484560557"
                 >
                     <magnitude>
                         7.03133190207744
@@ -105,7 +105,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9939755792856066 0.006024420714393353"
+                probs_occur="0.9998791544873974 0.00012084551260260756"
                 >
                     <magnitude>
                         7.156269554718802
@@ -116,7 +116,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9755434818639559 0.024456518136044103"
+                probs_occur="0.9995049116769449 0.0004950883230551151"
                 >
                     <magnitude>
                         7.156467936890584
@@ -127,7 +127,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9666696224706119 0.033330377529388056"
+                probs_occur="0.9993222598906072 0.0006777401093928104"
                 >
                     <magnitude>
                         7.253163432119522
@@ -138,7 +138,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8972273032644218 0.1027726967355782"
+                probs_occur="0.9978334295061023 0.0021665704938976793"
                 >
                     <magnitude>
                         7.457406257184832
@@ -149,7 +149,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9943496110216142 0.0056503889783857675"
+                probs_occur="0.9998866781650981 0.00011332183490186942"
                 >
                     <magnitude>
                         7.854734179073363
@@ -160,7 +160,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9972564603806526 0.0027435396193473682"
+                probs_occur="0.9999450553090765 5.4944690923486306e-05"
                 >
                     <magnitude>
                         7.985173827770518
@@ -171,7 +171,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9240379383612934 0.07596206163870656"
+                probs_occur="0.9984212046237255 0.0015787953762744777"
                 >
                     <magnitude>
                         8.072274917565743
@@ -182,7 +182,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9579221294829717 0.04207787051702827"
+                probs_occur="0.999140593725697 0.0008594062743030317"
                 >
                     <magnitude>
                         8.197296663533264
@@ -193,7 +193,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.999983944638928 1.6055361071964924e-05"
+                probs_occur="0.9999996788902523 3.2110974768073675e-07"
                 >
                     <magnitude>
                         9.203378392166762
@@ -204,7 +204,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9391018047807919 0.06089819521920814"
+                probs_occur="0.9987441614789487 0.0012558385210512668"
                 >
                     <magnitude>
                         7.0313555186146655
@@ -215,7 +215,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8295463956546596 0.1704536043453404"
+                probs_occur="0.9962694510753628 0.0037305489246372003"
                 >
                     <magnitude>
                         7.031307225974274
@@ -226,7 +226,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9976221064902806 0.0023778935097193976"
+                probs_occur="0.9999523866297858 4.761337021419454e-05"
                 >
                     <magnitude>
                         7.2531486068624975
@@ -237,7 +237,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9772406100723098 0.02275938992769022"
+                probs_occur="0.9995396583322187 0.0004603416677813055"
                 >
                     <magnitude>
                         7.985069781938773
@@ -248,7 +248,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.997808702340822 0.0021912976591780264"
+                probs_occur="0.9999561269211507 4.387307884934355e-05"
                 >
                     <magnitude>
                         9.12816053932298
@@ -259,7 +259,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9991899772457918 0.0008100227542081617"
+                probs_occur="0.9999837931113349 1.6206888665104557e-05"
                 >
                     <magnitude>
                         9.16682719740179
@@ -270,7 +270,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9997542948527476 0.00024570514725241743"
+                probs_occur="0.999995085305323 4.914694677005116e-06"
                 >
                     <magnitude>
                         9.18140756251043
@@ -281,7 +281,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9996470788974559 0.0003529211025441459"
+                probs_occur="0.9999929403570423 7.059642957663037e-06"
                 >
                     <magnitude>
                         7.332326516500892
@@ -292,7 +292,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9780053284239332 0.021994671576066827"
+                probs_occur="0.999555295696765 0.00044470430323495513"
                 >
                     <magnitude>
                         7.985225415687143
@@ -303,7 +303,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.7990562032103082 0.20094379678969176"
+                probs_occur="0.9955235693416925 0.004476430658307495"
                 >
                     <magnitude>
                         7.031226756203006
@@ -314,7 +314,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9969836320952884 0.003016367904711603"
+                probs_occur="0.9999395832989375 6.0416701062493416e-05"
                 >
                     <magnitude>
                         7.457150145988649
@@ -325,7 +325,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9937873532322199 0.006212646767780106"
+                probs_occur="0.9998753672560697 0.00012463274393026413"
                 >
                     <magnitude>
                         7.553976178826401
@@ -336,7 +336,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9355958723692214 0.06440412763077863"
+                probs_occur="0.9986694528432501 0.0013305471567498506"
                 >
                     <magnitude>
                         7.758120381525988
@@ -347,7 +347,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9124178171349059 0.08758218286509412"
+                probs_occur="0.9981685339645741 0.0018314660354259438"
                 >
                     <magnitude>
                         7.156160621392662
@@ -358,7 +358,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9904102301922424 0.009589769807757609"
+                probs_occur="0.9998072976144681 0.00019270238553192875"
                 >
                     <magnitude>
                         9.122329131527357
@@ -369,7 +369,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9976248842402262 0.0023751157597737826"
+                probs_occur="0.999952442314476 4.75576855240023e-05"
                 >
                     <magnitude>
                         9.161495600070708
@@ -380,7 +380,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9997117287887194 0.00028827121128061073"
+                probs_occur="0.9999942337612365 5.766238763471598e-06"
                 >
                     <magnitude>
                         9.176253038081862
@@ -391,7 +391,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9537723184773678 0.046227681522632236"
+                probs_occur="0.9990538419721532 0.0009461580278468107"
                 >
                     <magnitude>
                         7.031172542919821
@@ -402,7 +402,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8854324554839887 0.11456754451601125"
+                probs_occur="0.9975693766989996 0.002430623301000412"
                 >
                     <magnitude>
                         7.156057095672849
@@ -413,7 +413,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8592287059061573 0.1407712940938427"
+                probs_occur="0.9969701962325425 0.0030298037674575395"
                 >
                     <magnitude>
                         7.252999382038985
@@ -424,7 +424,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9677111430841314 0.03228885691586858"
+                probs_occur="0.9993437825620574 0.0006562174379426411"
                 >
                     <magnitude>
                         7.457159929842772
@@ -435,7 +435,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9912688927142183 0.008731107285781747"
+                probs_occur="0.99982462644514 0.00017537355485996997"
                 >
                     <magnitude>
                         8.098129452001421
@@ -446,7 +446,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9999999883948482 1.1605151839511052e-08"
+                probs_occur="0.999999999767897 2.321030034835303e-10"
                 >
                     <magnitude>
                         8.197433160911135
@@ -457,7 +457,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.971954203259898 0.02804579674010199"
+                probs_occur="0.999431229978638 0.0005687700213620195"
                 >
                     <magnitude>
                         7.784559226969877
@@ -468,7 +468,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9828960254896121 0.01710397451038792"
+                probs_occur="0.9996550207775279 0.0003449792224721193"
                 >
                     <magnitude>
                         7.155515520250483
@@ -479,7 +479,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9949519528288917 0.005048047171108294"
+                probs_occur="0.9998987884901573 0.00010121150984265803"
                 >
                     <magnitude>
                         9.11641847794674
@@ -490,7 +490,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9990126623163313 0.0009873376836686543"
+                probs_occur="0.9999802436867068 1.9756313293206595e-05"
                 >
                     <magnitude>
                         9.156097845909818
@@ -501,7 +501,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9997819818235202 0.00021801817647981725"
+                probs_occur="0.9999956391705905 4.360829409466582e-06"
                 >
                     <magnitude>
                         9.171036707348014
@@ -512,7 +512,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8961646501495755 0.10383534985042453"
+                probs_occur="0.9978097796094209 0.002190220390579145"
                 >
                     <magnitude>
                         7.758197513025836
@@ -523,7 +523,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9993010947757999 0.0006989052242001303"
+                probs_occur="0.9999860171063153 1.3982893684705289e-05"
                 >
                     <magnitude>
                         7.508411247898144
@@ -534,7 +534,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9793681110756597 0.020631888924340314"
+                probs_occur="0.9995831329152943 0.00041686708470567435"
                 >
                     <magnitude>
                         7.031232493126096
@@ -545,7 +545,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9062025468031282 0.09379745319687183"
+                probs_occur="0.9980320901520453 0.0019679098479546964"
                 >
                     <magnitude>
                         7.156198394282416
@@ -556,7 +556,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9877485275937948 0.012251472406205166"
+                probs_occur="0.999753487582008 0.0002465124179920064"
                 >
                     <magnitude>
                         7.758222226698384
@@ -567,7 +567,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9937593971207603 0.006240602879239665"
+                probs_occur="0.9998748047008625 0.00012519529913745941"
                 >
                     <magnitude>
                         7.896522460642805
@@ -578,7 +578,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9209457295635769 0.0790542704364231"
+                probs_occur="0.9983542722970802 0.0016457277029198192"
                 >
                     <magnitude>
                         7.875696998745298
@@ -589,7 +589,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.974622808455658 0.025377191544342037"
+                probs_occur="0.9994860372049998 0.0005139627950001557"
                 >
                     <magnitude>
                         7.876199478840402
@@ -600,7 +600,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9281265679619702 0.07187343203802976"
+                probs_occur="0.9985093687439409 0.0014906312560590829"
                 >
                     <magnitude>
                         7.15627489792672
@@ -611,7 +611,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.6503321374487644 0.3496678625512356"
+                probs_occur="0.9914314795093998 0.008568520490600195"
                 >
                     <magnitude>
                         7.252156116071367
@@ -622,7 +622,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9934171363439555 0.006582863656044546"
+                probs_occur="0.999867916198585 0.0001320838014150505"
                 >
                     <magnitude>
                         7.553266086508312
@@ -633,7 +633,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9604664154931349 0.03953358450686506"
+                probs_occur="0.9991936000546396 0.0008063999453603587"
                 >
                     <magnitude>
                         7.875769167227546
@@ -644,7 +644,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9970623557469165 0.0029376442530835156"
+                probs_occur="0.9999411623790206 5.88376209793573e-05"
                 >
                     <magnitude>
                         8.386126041595169
@@ -655,7 +655,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9865072905402087 0.013492709459791308"
+                probs_occur="0.9997283456399816 0.00027165436001841403"
                 >
                     <magnitude>
                         8.29409443419425
@@ -666,7 +666,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.942789669882162 0.05721033011783805"
+                probs_occur="0.9988224525571442 0.0011775474428558086"
                 >
                     <magnitude>
                         7.456625816480944
@@ -677,7 +677,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9978175784971275 0.0021824215028725114"
+                probs_occur="0.9999563048255561 4.369517444391402e-05"
                 >
                     <magnitude>
                         7.553536479483984
@@ -688,7 +688,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.983480857340917 0.016519142659083053"
+                probs_occur="0.9996669133825802 0.00033308661741981993"
                 >
                     <magnitude>
                         7.699791758609436
@@ -699,7 +699,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9914070571957875 0.008592942804212522"
+                probs_occur="0.999827413394645 0.00017258660535501846"
                 >
                     <magnitude>
                         8.29421194032789
@@ -710,7 +710,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9453944693857435 0.05460553061425655"
+                probs_occur="0.998877570182793 0.0011224298172070046"
                 >
                     <magnitude>
                         7.252696833696841
@@ -721,7 +721,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9779914549101972 0.022008545089802767"
+                probs_occur="0.9995550121105694 0.00044498788943059253"
                 >
                     <magnitude>
                         7.553888404057909
@@ -732,7 +732,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9424813503618099 0.05751864963819009"
+                probs_occur="0.9988159186328085 0.001184081367191503"
                 >
                     <magnitude>
                         7.8762341697545395
@@ -743,7 +743,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9846750996460794 0.015324900353920645"
+                probs_occur="0.999691176889738 0.00030882311026203535"
                 >
                     <magnitude>
                         8.197373814963806
@@ -754,7 +754,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9634466446824628 0.03655335531753723"
+                probs_occur="0.9992555138829502 0.0007444861170498029"
                 >
                     <magnitude>
                         7.758200083553598
@@ -765,7 +765,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8824190312916711 0.1175809687083289"
+                probs_occur="0.997501361933115 0.002498638066884995"
                 >
                     <magnitude>
                         7.876313717903498
@@ -776,7 +776,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.981393876825052 0.01860612317494803"
+                probs_occur="0.9996244426479175 0.00037555735208250063"
                 >
                     <magnitude>
                         7.98540964863021
@@ -787,7 +787,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.905125732676453 0.09487426732354698"
+                probs_occur="0.998008357680918 0.0019916423190819987"
                 >
                     <magnitude>
                         7.031382296569177
@@ -798,7 +798,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9945944963764104 0.005405503623589603"
+                probs_occur="0.9998916025510016 0.00010839744899837633"
                 >
                     <magnitude>
                         7.45729943514913
@@ -809,7 +809,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9917365762343497 0.008263423765650257"
+                probs_occur="0.9998340586675407 0.0001659413324592851"
                 >
                     <magnitude>
                         7.554112820415319
@@ -820,7 +820,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9523662545168647 0.04763374548313526"
+                probs_occur="0.9990243643013765 0.0009756356986234671"
                 >
                     <magnitude>
                         7.633273917680512
@@ -831,7 +831,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9970569822019265 0.0029430177980734884"
+                probs_occur="0.9999410545975367 5.8945402463317365e-05"
                 >
                     <magnitude>
                         7.554109706411124
@@ -842,7 +842,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9719903191297719 0.02800968087022815"
+                probs_occur="0.9994319727023372 0.0005680272976628098"
                 >
                     <magnitude>
                         7.252204914744193
@@ -853,7 +853,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8539852341133873 0.14601476588661266"
+                probs_occur="0.9968481500286792 0.003151849971320786"
                 >
                     <magnitude>
                         7.456370414382479
@@ -864,7 +864,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8286671979127439 0.1713328020872561"
+                probs_occur="0.9962483221050323 0.0037516778949676644"
                 >
                     <magnitude>
                         7.553327212380037
@@ -875,7 +875,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9757991957147268 0.02420080428527316"
+                probs_occur="0.9995101508986172 0.0004898491013828332"
                 >
                     <magnitude>
                         7.699635893045185
@@ -886,7 +886,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9974796588275363 0.0025203411724636915"
+                probs_occur="0.9999495308220341 5.046917796591721e-05"
                 >
                     <magnitude>
                         7.984995271290318
@@ -897,7 +897,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9928082167248148 0.007191783275185215"
+                probs_occur="0.9998556550425017 0.0001443449574982658"
                 >
                     <magnitude>
                         8.294110099831045
@@ -908,7 +908,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.991321210869107 0.008678789130893039"
+                probs_occur="0.9998256818122014 0.00017431818779856112"
                 >
                     <magnitude>
                         9.098207618376142
@@ -919,7 +919,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.909517071484065 0.09048292851593498"
+                probs_occur="0.9981049676252421 0.0018950323747578546"
                 >
                     <magnitude>
                         7.155433150208081
@@ -930,7 +930,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9505140411598734 0.04948595884012663"
+                probs_occur="0.9989854680904519 0.0010145319095481442"
                 >
                     <magnitude>
                         7.456674740474435
@@ -941,7 +941,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9503617589225315 0.0496382410774685"
+                probs_occur="0.9989822668818568 0.001017733118143238"
                 >
                     <magnitude>
                         7.553634159907155
@@ -952,7 +952,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9871646522405505 0.0128353477594495"
+                probs_occur="0.9997416647233195 0.00025833527668051026"
                 >
                     <magnitude>
                         7.252818723829845
@@ -963,7 +963,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.921347457223577 0.07865254277642297"
+                probs_occur="0.9983629803199728 0.001637019680027163"
                 >
                     <magnitude>
                         7.457040445946308
@@ -974,7 +974,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9341154267402227 0.06588457325977726"
+                probs_occur="0.9986378233029479 0.0013621766970520754"
                 >
                     <magnitude>
                         7.1561646100152885
@@ -985,7 +985,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.960546803212751 0.03945319678724901"
+                probs_occur="0.9991952725670711 0.00080472743292892"
                 >
                     <magnitude>
                         7.554068832585859
@@ -996,7 +996,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9516169744323173 0.0483830255676827"
+                probs_occur="0.999008638465227 0.000991361534772972"
                 >
                     <magnitude>
                         7.156119411415892
@@ -1007,7 +1007,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8657587085307044 0.13424129146929564"
+                probs_occur="0.9971211710620272 0.002878828937972755"
                 >
                     <magnitude>
                         7.253005823687188
@@ -1018,7 +1018,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9060575137000569 0.09394248629994306"
+                probs_occur="0.9980288953024146 0.001971104697585435"
                 >
                     <magnitude>
                         7.457147371594168
@@ -1029,7 +1029,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9890592327975527 0.010940767202447299"
+                probs_occur="0.9997800030519255 0.00021999694807450787"
                 >
                     <magnitude>
                         7.554038480844962
@@ -1040,7 +1040,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9571401246616246 0.04285987533837543"
+                probs_occur="0.9991242741220452 0.0008757258779548138"
                 >
                     <magnitude>
                         7.156116008497575
@@ -1051,7 +1051,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.950628966123365 0.049371033876634995"
+                probs_occur="0.998987883658496 0.001012116341503999"
                 >
                     <magnitude>
                         7.399198534696744
@@ -1062,7 +1062,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.933771065783101 0.06622893421689902"
+                probs_occur="0.9986304590307838 0.0013695409692161542"
                 >
                     <magnitude>
                         7.155320266936707
@@ -1073,7 +1073,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8932855682451224 0.1067144317548776"
+                probs_occur="0.9977455657835121 0.002254434216487855"
                 >
                     <magnitude>
                         7.456433475631634
@@ -1084,7 +1084,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9929091247871875 0.007090875212812486"
+                probs_occur="0.9998576874284274 0.00014231257157260035"
                 >
                     <magnitude>
                         7.69969838060773
@@ -1095,7 +1095,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9932308815833912 0.006769118416608766"
+                probs_occur="0.9998641665698837 0.00013583343011625004"
                 >
                     <magnitude>
                         8.197166888027377
@@ -1106,7 +1106,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.992450941958769 0.0075490580412309605"
+                probs_occur="0.9998484575557296 0.00015154244427040275"
                 >
                     <magnitude>
                         7.252524072005347
@@ -1117,7 +1117,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9945252001273094 0.005474799872690617"
+                probs_occur="0.999890209197159 0.00010979080284101439"
                 >
                     <magnitude>
                         7.156133184360037
@@ -1128,7 +1128,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9857853859692182 0.014214614030781836"
+                probs_occur="0.9997137088019488 0.00028629119805123615"
                 >
                     <magnitude>
                         7.457117714941958
@@ -1139,7 +1139,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9181991885337771 0.08180081146622287"
+                probs_occur="0.9982946371680259 0.0017053628319740888"
                 >
                     <magnitude>
                         7.457062890689047
@@ -1150,7 +1150,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9345992819733079 0.06540071802669212"
+                probs_occur="0.9986481662118475 0.0013518337881525122"
                 >
                     <magnitude>
                         7.758111359799507
@@ -1161,7 +1161,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8708088975641907 0.12919110243580934"
+                probs_occur="0.9972371690221993 0.002762830977800723"
                 >
                     <magnitude>
                         7.031077619674674
@@ -1172,7 +1172,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9955781319181052 0.00442186808189482"
+                probs_occur="0.9999113704586975 8.862954130250955e-05"
                 >
                     <magnitude>
                         7.156023540328495
@@ -1183,7 +1183,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.810359391928139 0.189640608071861"
+                probs_occur="0.9958032822164318 0.004196717783568227"
                 >
                     <magnitude>
                         7.031093672181208
@@ -1194,7 +1194,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.806855732183907 0.19314426781609295"
+                probs_occur="0.9957169904149586 0.004283009585041353"
                 >
                     <magnitude>
                         7.031209240786075
@@ -1205,7 +1205,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9998775240491449 0.00012247595085512764"
+                probs_occur="0.9999975503339675 2.4496660324668795e-06"
                 >
                     <magnitude>
                         7.699736883559014
@@ -1216,7 +1216,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9896747873109603 0.010325212689039742"
+                probs_occur="0.999792443793043 0.00020755620695700472"
                 >
                     <magnitude>
                         7.757710611681883
@@ -1227,7 +1227,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9935795606053414 0.006420439394658639"
+                probs_occur="0.9998711855160205 0.00012881448397950024"
                 >
                     <magnitude>
                         8.176839119414783
@@ -1238,7 +1238,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9953059800706996 0.004694019929300408"
+                probs_occur="0.9999059029986324 9.409700136764343e-05"
                 >
                     <magnitude>
                         8.197155986658393
@@ -1249,7 +1249,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.972209686994399 0.027790313005600975"
+                probs_occur="0.9994364834265977 0.0005635165734022562"
                 >
                     <magnitude>
                         7.456856987998675
@@ -1260,7 +1260,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9780716132211134 0.021928386778886644"
+                probs_occur="0.999556650558909 0.00044334944109103436"
                 >
                     <magnitude>
                         7.155964938515687
@@ -1271,7 +1271,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9266181369379423 0.07338186306205774"
+                probs_occur="0.9984768864656216 0.0015231135343783953"
                 >
                     <magnitude>
                         7.553971164809018
@@ -1282,7 +1282,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.997345768570716 0.002654231429284004"
+                probs_occur="0.9999468462097741 5.31537902258572e-05"
                 >
                     <magnitude>
                         7.98522619759904
@@ -1293,7 +1293,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8962374555128033 0.10376254448719668"
+                probs_occur="0.9978114008073041 0.0021885991926958726"
                 >
                     <magnitude>
                         7.457075593679209
@@ -1304,7 +1304,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9718059829691101 0.028194017030889862"
+                probs_occur="0.9994281815416354 0.0005718184583646257"
                 >
                     <magnitude>
                         7.876172844487847
@@ -1315,7 +1315,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9793401294517038 0.02065987054829621"
+                probs_occur="0.9995825617235105 0.0004174382764895457"
                 >
                     <magnitude>
                         7.156029995829211
@@ -1326,7 +1326,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.722933270645174 0.277066729354826"
+                probs_occur="0.9935322394656244 0.006467760534375588"
                 >
                     <magnitude>
                         7.031058512612741
@@ -1337,7 +1337,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9997616339156774 0.00023836608432259432"
+                probs_occur="0.9999952321214057 4.767878594269526e-06"
                 >
                     <magnitude>
                         7.633191181963749
@@ -1348,7 +1348,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.999732503255871 0.00026749674412895885"
+                probs_occur="0.9999946493637594 5.350636240630813e-06"
                 >
                     <magnitude>
                         7.784437890814619
@@ -1359,7 +1359,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.6292635699094922 0.37073643009050783"
+                probs_occur="0.9907786779827529 0.009221322017247124"
                 >
                     <magnitude>
                         7.0310540231773775
@@ -1370,7 +1370,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9766794509997527 0.02332054900024727"
+                probs_occur="0.9995281758247715 0.00047182417522850795"
                 >
                     <magnitude>
                         7.156040806119536
@@ -1381,7 +1381,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9892546225351172 0.0107453774648828"
+                probs_occur="0.9997839528223503 0.00021604717764966974"
                 >
                     <magnitude>
                         7.252977923644936
@@ -1392,7 +1392,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.994371481922519 0.005628518077480993"
+                probs_occur="0.9998871180141518 0.00011288198584824549"
                 >
                     <magnitude>
                         7.457038151833367
@@ -1403,7 +1403,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9996684702558996 0.000331529744100445"
+                probs_occur="0.9999933683277449 6.631672255119625e-06"
                 >
                     <magnitude>
                         7.595370751536015
@@ -1414,7 +1414,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9999999908329462 9.167053782732637e-09"
+                probs_occur="0.9999999998166589 1.8334112006357373e-10"
                 >
                     <magnitude>
                         7.6679069250965135
@@ -1425,7 +1425,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.7831199244163524 0.21688007558364764"
+                probs_occur="0.9951225449127208 0.004877455087279214"
                 >
                     <magnitude>
                         7.031009548535627
@@ -1436,7 +1436,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9915627303565815 0.00843726964341851"
+                probs_occur="0.9998305530599968 0.00016944694000320393"
                 >
                     <magnitude>
                         7.155976171874182
@@ -1447,7 +1447,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9999767489870289 2.3251012971070573e-05"
+                probs_occur="0.9999995349744425 4.6502555750560504e-07"
                 >
                     <magnitude>
                         7.252554382358511
@@ -1458,7 +1458,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9759953211542914 0.02400467884570856"
+                probs_occur="0.9995141683248497 0.00048583167515026116"
                 >
                     <magnitude>
                         8.197130486947879
@@ -1469,7 +1469,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9990308259124129 0.0009691740875871213"
+                probs_occur="0.9999806073072315 1.9392692768516184e-05"
                 >
                     <magnitude>
                         7.757925450944736
@@ -1480,7 +1480,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.7913858960252658 0.20861410397473423"
+                probs_occur="0.9953315398600567 0.004668460139943265"
                 >
                     <magnitude>
                         7.156006227492208
@@ -1491,7 +1491,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9142102854383993 0.08578971456160067"
+                probs_occur="0.9982077148168876 0.0017922851831123632"
                 >
                     <magnitude>
                         7.5539928173728175
@@ -1502,7 +1502,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9166465661065206 0.08335343389347938"
+                probs_occur="0.9982608479783326 0.0017391520216674117"
                 >
                     <magnitude>
                         7.633154727121401
@@ -1513,7 +1513,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9363882088978005 0.0636117911021995"
+                probs_occur="0.9986863608723523 0.0013136391276477033"
                 >
                     <magnitude>
                         7.252994253147245
@@ -1524,7 +1524,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9979262787422543 0.002073721257745742"
+                probs_occur="0.9999584833739418 4.151662605822448e-05"
                 >
                     <magnitude>
                         7.554031569127011
@@ -1535,7 +1535,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9957683631524936 0.0042316368475063815"
+                probs_occur="0.9999151912852337 8.480871476634899e-05"
                 >
                     <magnitude>
                         7.031140141813287
@@ -1546,7 +1546,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9831068195766377 0.016893180423362297"
+                probs_occur="0.9996593080921806 0.0003406919078193793"
                 >
                     <magnitude>
                         7.156103269249631
@@ -1557,7 +1557,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9974698245289055 0.0025301754710944646"
+                probs_occur="0.9999493336480922 5.06663519077577e-05"
                 >
                     <magnitude>
                         7.253009561703671
@@ -1568,7 +1568,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9689917738761947 0.03100822612380527"
+                probs_occur="0.9993702152693212 0.0006297847306787618"
                 >
                     <magnitude>
                         7.699999037061298
@@ -1579,7 +1579,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9684277430160341 0.03157225698396593"
+                probs_occur="0.9993585776787807 0.0006414223212193315"
                 >
                     <magnitude>
                         7.252939378149667
@@ -1590,7 +1590,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9810391009009759 0.018960899099024098"
+                probs_occur="0.9996172140411628 0.00038278595883722843"
                 >
                     <magnitude>
                         7.156036357398812
@@ -1601,7 +1601,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9996411967253538 0.0003588032746462133"
+                probs_occur="0.9999928226725583 7.1773274417097355e-06"
                 >
                     <magnitude>
                         7.031210531769691
@@ -1612,7 +1612,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9999673415415647 3.2658458435252946e-05"
+                probs_occur="0.9999993468203786 6.531796213904428e-07"
                 >
                     <magnitude>
                         7.252977335490584
@@ -1623,7 +1623,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9980984118583461 0.001901588141653865"
+                probs_occur="0.9999619327554613 3.806724453869759e-05"
                 >
                     <magnitude>
                         7.155643908562584
@@ -1634,7 +1634,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.97220865672304 0.02779134327695998"
+                probs_occur="0.9994364622441032 0.0005635377558967924"
                 >
                     <magnitude>
                         7.252561851525941
@@ -1645,7 +1645,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9871998968676103 0.012800103132389662"
+                probs_occur="0.999742378584085 0.0002576214159150103"
                 >
                     <magnitude>
                         7.757748614932298
@@ -1656,7 +1656,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9722318604602108 0.027768139539789183"
+                probs_occur="0.9994369393102067 0.0005630606897932822"
                 >
                     <magnitude>
                         8.196998388792647
@@ -1667,7 +1667,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9784091043796671 0.021590895620332895"
+                probs_occur="0.9995635474875866 0.0004364525124134211"
                 >
                     <magnitude>
                         7.0311446177735135
@@ -1678,7 +1678,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9997829474666912 0.0002170525333088369"
+                probs_occur="0.999995658487572 4.341512428007732e-06"
                 >
                     <magnitude>
                         7.156037950279137
@@ -1689,7 +1689,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9999999833428025 1.665719751020589e-08"
+                probs_occur="0.999999999666856 3.3314395686545595e-10"
                 >
                     <magnitude>
                         7.2529590634836865
@@ -1700,7 +1700,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9367450602262667 0.06325493977373331"
+                probs_occur="0.9986939713061144 0.0013060286938856303"
                 >
                     <magnitude>
                         7.252531532311341
@@ -1711,7 +1711,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9932551810631349 0.006744818936865071"
+                probs_occur="0.9998646557992917 0.00013534420070826503"
                 >
                     <magnitude>
                         7.699713053343189
@@ -1722,7 +1722,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.998738550582025 0.0012614494179750135"
+                probs_occur="0.9999747554043498 2.5244595650231183e-05"
                 >
                     <magnitude>
                         7.984880376661424
@@ -1733,7 +1733,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.972327285149643 0.02767271485035705"
+                probs_occur="0.9994389011132907 0.0005610988867092992"
                 >
                     <magnitude>
                         7.699752316657445
@@ -1744,7 +1744,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8776738512563105 0.12232614874368952"
+                probs_occur="0.9973937976141768 0.0026062023858232086"
                 >
                     <magnitude>
                         7.1557520679364135
@@ -1755,7 +1755,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9921772956621446 0.007822704337855368"
+                probs_occur="0.9998429430907102 0.00015705690928979887"
                 >
                     <magnitude>
                         7.0309428668997205
@@ -1766,7 +1766,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8412008024161058 0.15879919758389416"
+                probs_occur="0.9965474760890455 0.003452523910954519"
                 >
                     <magnitude>
                         7.252777513115898
@@ -1777,7 +1777,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.99485634875994 0.005143651240059999"
+                probs_occur="0.9998968668115543 0.00010313318844568098"
                 >
                     <magnitude>
                         7.45693352756995
@@ -1788,7 +1788,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9374952430544291 0.0625047569455709"
+                probs_occur="0.9987099609122307 0.001290039087769257"
                 >
                     <magnitude>
                         7.031041533445368
@@ -1799,7 +1799,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9874564520312828 0.01254354796871715"
+                probs_occur="0.9997475742169887 0.000252425783011323"
                 >
                     <magnitude>
                         7.155938065764449
@@ -1810,7 +1810,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9999760251604694 2.3974839530649383e-05"
+                probs_occur="0.9999995204975763 4.795024236559087e-07"
                 >
                     <magnitude>
                         7.031053042749486
@@ -1821,7 +1821,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9926818045509652 0.007318195449034781"
+                probs_occur="0.9998531086934441 0.00014689130655587412"
                 >
                     <magnitude>
                         7.155600838600219
@@ -1832,7 +1832,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9912556463205102 0.00874435367948978"
+                probs_occur="0.9998243592288991 0.00017564077110088228"
                 >
                     <magnitude>
                         7.69964500790897
@@ -1843,7 +1843,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9960051744763391 0.003994825523660928"
+                probs_occur="0.9999199466813646 8.005331863536469e-05"
                 >
                     <magnitude>
                         7.875749576096767
@@ -1854,7 +1854,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9973867078316856 0.0026132921683144072"
+                probs_occur="0.9999476671138741 5.233288612593867e-05"
                 >
                     <magnitude>
                         7.984825774440834
@@ -1865,7 +1865,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9261171060327151 0.07388289396728487"
+                probs_occur="0.9984660858920016 0.001533914107998413"
                 >
                     <magnitude>
                         7.155684831750936
@@ -1876,7 +1876,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.964119278741076 0.03588072125892405"
+                probs_occur="0.9992694617952248 0.0007305382047751996"
                 >
                     <magnitude>
                         7.0307847288248375
@@ -1887,7 +1887,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9722271228500264 0.027772877149973563"
+                probs_occur="0.9994368419064058 0.000563158093594196"
                 >
                     <magnitude>
                         7.155648789277388
@@ -1898,7 +1898,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9857959264903199 0.014204073509680115"
+                probs_occur="0.9997139225898256 0.00028607741017439015"
                 >
                     <magnitude>
                         7.252612873472732
@@ -1909,7 +1909,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9902436469444055 0.009756353055594524"
+                probs_occur="0.9998039340612697 0.00019606593873033873"
                 >
                     <magnitude>
                         7.553633646974539
@@ -1920,7 +1920,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9883808376858104 0.01161916231418958"
+                probs_occur="0.9997662834707364 0.00023371652926362785"
                 >
                     <magnitude>
                         7.699686126499374
@@ -1931,7 +1931,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9790368116934455 0.020963188306554525"
+                probs_occur="0.9995763690401982 0.00042363095980180177"
                 >
                     <magnitude>
                         7.030788101908536
@@ -1942,7 +1942,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9999772897680972 2.271023190281163e-05"
+                probs_occur="0.9999995457903075 4.5420969252418786e-07"
                 >
                     <magnitude>
                         7.331958045410125
@@ -1953,7 +1953,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9962943591923415 0.00370564080765845"
+                probs_occur="0.999925752282428 7.424771757202908e-05"
                 >
                     <magnitude>
                         8.196728895966162
@@ -1964,7 +1964,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9799490973351594 0.020050902664840553"
+                probs_occur="0.9995949890358672 0.00040501096413281257"
                 >
                     <magnitude>
                         8.385551171494074
@@ -1975,7 +1975,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9798844508132177 0.020115549186782267"
+                probs_occur="0.9995936701422939 0.0004063298577060559"
                 >
                     <magnitude>
                         7.155730123037143
@@ -1986,7 +1986,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9859253522533019 0.014074647746698088"
+                probs_occur="0.9997165474822715 0.0002834525177285441"
                 >
                     <magnitude>
                         7.456753617366167
@@ -1997,7 +1997,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9867343735026937 0.013265626497306338"
+                probs_occur="0.9997329476469646 0.00026705235303536856"
                 >
                     <magnitude>
                         7.45672579254435
@@ -2008,7 +2008,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9799149279311499 0.02008507206885013"
+                probs_occur="0.9995942919354015 0.00040570806459849784"
                 >
                     <magnitude>
                         7.5535756530981475
@@ -2019,7 +2019,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9954445529477292 0.0045554470522708446"
+                probs_occur="0.99990868707486 9.131292513997469e-05"
                 >
                     <magnitude>
                         7.699691035163312
@@ -2030,7 +2030,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9946547152389486 0.00534528476105145"
+                probs_occur="0.9998928133067196 0.0001071866932803589"
                 >
                     <magnitude>
                         7.155674472401021
@@ -2041,7 +2041,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.997699322420609 0.0023006775793910084"
+                probs_occur="0.9999539344969615 4.606550303853929e-05"
                 >
                     <magnitude>
                         7.252532278918458
@@ -2052,7 +2052,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9994692465834849 0.0005307534165150951"
+                probs_occur="0.9999893821700502 1.0617829949821633e-05"
                 >
                     <magnitude>
                         7.030925765249804
@@ -2063,7 +2063,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9844325047932134 0.015567495206786575"
+                probs_occur="0.9996862504075674 0.0003137495924325773"
                 >
                     <magnitude>
                         7.6994173359504945
@@ -2074,7 +2074,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9804638244731614 0.019536175526838617"
+                probs_occur="0.9996054872605182 0.00039451273948176713"
                 >
                     <magnitude>
                         7.875563087315978
@@ -2085,7 +2085,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9951835338408389 0.0048164661591610924"
+                probs_occur="0.9999034426077243 9.655739227565352e-05"
                 >
                     <magnitude>
                         7.030746717728356
@@ -2096,7 +2096,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9786866713550956 0.021313328644904428"
+                probs_occur="0.9995692180658569 0.0004307819341431429"
                 >
                     <magnitude>
                         7.4566267006917135
@@ -2107,7 +2107,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9565557013734841 0.04344429862651589"
+                probs_occur="0.9991120692995785 0.0008879307004214798"
                 >
                     <magnitude>
                         7.699536450553351
@@ -2118,7 +2118,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9918315747097047 0.008168425290295267"
+                probs_occur="0.9998359740603079 0.000164025939692114"
                 >
                     <magnitude>
                         7.15559888487549
@@ -2129,7 +2129,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9739612754963415 0.026038724503658517"
+                probs_occur="0.9994724645088574 0.0005275354911425945"
                 >
                     <magnitude>
                         7.25249365164651
@@ -2140,7 +2140,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.998242253781385 0.0017577462186150195"
+                probs_occur="0.9999648147616715 3.518523832846121e-05"
                 >
                     <magnitude>
                         7.699253625856654
@@ -2151,7 +2151,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9861988467831669 0.013801153216833062"
+                probs_occur="0.9997220931323353 0.0002779068676647123"
                 >
                     <magnitude>
                         9.04686693818333
@@ -2162,7 +2162,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9112574366494758 0.08874256335052422"
+                probs_occur="0.9981431294260772 0.0018568705739228086"
                 >
                     <magnitude>
                         7.030558241234819
@@ -2173,7 +2173,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8033550246784305 0.19664497532156955"
+                probs_occur="0.9956304037899717 0.004369596210028304"
                 >
                     <magnitude>
                         7.155435264535798
@@ -2184,7 +2184,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9100254242075307 0.08997457579246926"
+                probs_occur="0.9981161219066761 0.0018838780933239097"
                 >
                     <magnitude>
                         7.252310958154966
@@ -2195,7 +2195,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9879071730733876 0.012092826926612399"
+                probs_occur="0.9997566988019897 0.00024330119801030392"
                 >
                     <magnitude>
                         7.55339437686917
@@ -2206,7 +2206,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9670605210009614 0.032939478999038596"
+                probs_occur="0.9993303403394472 0.0006696596605527683"
                 >
                     <magnitude>
                         7.699399219675948
@@ -2217,7 +2217,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9938135972704011 0.006186402729598917"
+                probs_occur="0.9998758953454578 0.00012410465454215647"
                 >
                     <magnitude>
                         7.757348353737179
@@ -2228,7 +2228,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9862276946670768 0.013772305332923174"
+                probs_occur="0.9997226779931595 0.0002773220068404969"
                 >
                     <magnitude>
                         8.196474786926744
@@ -2239,7 +2239,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9965389630597742 0.0034610369402258145"
+                probs_occur="0.9999306616003337 6.933839966627442e-05"
                 >
                     <magnitude>
                         8.398067961729492
@@ -2250,7 +2250,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9698930945801161 0.030106905419883923"
+                probs_occur="0.9993887983532388 0.0006112016467612058"
                 >
                     <magnitude>
                         7.252184333573354
@@ -2261,7 +2261,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9849791331431519 0.015020866856848114"
+                probs_occur="0.9996973493547355 0.0003026506452644684"
                 >
                     <magnitude>
                         7.699300701354653
@@ -2272,7 +2272,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9955260740061758 0.004473925993824235"
+                probs_occur="0.9999103247420403 8.967525795966491e-05"
                 >
                     <magnitude>
                         7.757265878280551
@@ -2283,7 +2283,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9916627581271282 0.00833724187287177"
+                probs_occur="0.9998325701966804 0.00016742980331962976"
                 >
                     <magnitude>
                         7.030576368569383
@@ -2294,7 +2294,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9316124932523718 0.06838750674762817"
+                probs_occur="0.998584236529439 0.001415763470561049"
                 >
                     <magnitude>
                         7.252391922836226
@@ -2305,7 +2305,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9948635416438449 0.00513645835615506"
+                probs_occur="0.9998970113975865 0.00010298860241353403"
                 >
                     <magnitude>
                         8.995466584797624
@@ -2316,7 +2316,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9938354125974028 0.006164587402597177"
+                probs_occur="0.9998763343087618 0.00012366569123822835"
                 >
                     <magnitude>
                         9.02834666938246
@@ -2327,7 +2327,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9802981664363762 0.01970183356362376"
+                probs_occur="0.999602109137035 0.0003978908629650446"
                 >
                     <magnitude>
                         7.030749071325099
@@ -2338,7 +2338,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9856582856760776 0.014341714323922394"
+                probs_occur="0.99971113071679 0.0002888692832100359"
                 >
                     <magnitude>
                         7.252577674330189
@@ -2349,7 +2349,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9593971328430214 0.040602867156978584"
+                probs_occur="0.9991713399603567 0.0008286600396433252"
                 >
                     <magnitude>
                         7.3986156369294385
@@ -2360,7 +2360,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9958670279235874 0.004132972076412611"
+                probs_occur="0.9999171727021483 8.282729785169529e-05"
                 >
                     <magnitude>
                         7.594784118798024
@@ -2371,7 +2371,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9967969256722576 0.0032030743277423612"
+                probs_occur="0.9999358377554673 6.416224453265063e-05"
                 >
                     <magnitude>
                         8.993595523173134
@@ -2382,7 +2382,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9983484999104726 0.0016515000895274135"
+                probs_occur="0.9999669432400042 3.3056759995764295e-05"
                 >
                     <magnitude>
                         7.155112441939668
@@ -2393,7 +2393,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9981933187254813 0.0018066812745186622"
+                probs_occur="0.9999638343481624 3.616565183761633e-05"
                 >
                     <magnitude>
                         8.09728468701498
@@ -2404,7 +2404,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9785271165788313 0.02147288342116871"
+                probs_occur="0.9995659586205319 0.0004340413794681197"
                 >
                     <magnitude>
                         7.030671534868967
@@ -2415,7 +2415,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9977630510484319 0.0022369489515681185"
+                probs_occur="0.9999552119098298 4.478809017016694e-05"
                 >
                     <magnitude>
                         7.699502228030283
@@ -2426,7 +2426,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9867644165282122 0.01323558347178777"
+                probs_occur="0.9997335564137245 0.0002664435862754777"
                 >
                     <magnitude>
                         7.3985346453186756
@@ -2437,7 +2437,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9625034215214322 0.0374965784785678"
+                probs_occur="0.9992359388834826 0.0007640611165173894"
                 >
                     <magnitude>
                         7.594738517521922
@@ -2448,7 +2448,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9939254183956284 0.006074581604371576"
+                probs_occur="0.9998781452861741 0.0001218547138258641"
                 >
                     <magnitude>
                         8.999897211261484
@@ -2459,7 +2459,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9950597880697774 0.004940211930222649"
+                probs_occur="0.9999009558028714 9.904419712858381e-05"
                 >
                     <magnitude>
                         7.030127818819874
@@ -2470,7 +2470,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9339476148992713 0.06605238510072875"
+                probs_occur="0.9986342349240291 0.0013657650759708595"
                 >
                     <magnitude>
                         7.155032965161773
@@ -2481,7 +2481,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9868600550124982 0.013139944987501817"
+                probs_occur="0.9997354942310985 0.0002645057689014685"
                 >
                     <magnitude>
                         7.251934002590353
@@ -2492,7 +2492,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9714622387584163 0.028537761241583692"
+                probs_occur="0.9994211100229279 0.0005788899770721168"
                 >
                     <magnitude>
                         7.398433855092829
@@ -2503,7 +2503,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9885262925173186 0.011473707482681395"
+                probs_occur="0.9997692258659221 0.0002307741340779046"
                 >
                     <magnitude>
                         8.998261308058504
@@ -2514,7 +2514,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9706149330274535 0.029385066972546503"
+                probs_occur="0.9994036687407558 0.0005963312592441872"
                 >
                     <magnitude>
                         7.154964056076247
@@ -2525,7 +2525,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9886837075295444 0.011316292470455624"
+                probs_occur="0.9997724097247097 0.0002275902752902903"
                 >
                     <magnitude>
                         8.991949246354316
@@ -2536,7 +2536,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9912484414000908 0.00875155859990917"
+                probs_occur="0.999824213884343 0.0001757861156570506"
                 >
                     <magnitude>
                         7.154712953275531
@@ -2547,7 +2547,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9972861346792037 0.002713865320796316"
+                probs_occur="0.9999456503864043 5.4349613595738866e-05"
                 >
                     <magnitude>
                         7.251912407062221
@@ -2558,7 +2558,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9959132034480473 0.004086796551952654"
+                probs_occur="0.9999180999474448 8.190005255515054e-05"
                 >
                     <magnitude>
                         7.757033138623511
@@ -2569,7 +2569,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9838225016556578 0.016177498344342234"
+                probs_occur="0.9996738575420699 0.0003261424579300565"
                 >
                     <magnitude>
                         7.0302546140842495
@@ -2580,7 +2580,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9591614024167915 0.040838597583208514"
+                probs_occur="0.9991664293046971 0.0008335706953028765"
                 >
                     <magnitude>
                         7.155184770413339
@@ -2591,7 +2591,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.909067748955784 0.09093225104421598"
+                probs_occur="0.9980951034971457 0.001904896502854303"
                 >
                     <magnitude>
                         7.398305496279994
@@ -2602,7 +2602,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9934968048469953 0.006503195153004682"
+                probs_occur="0.9998695198522187 0.0001304801477812756"
                 >
                     <magnitude>
                         7.1545805987348725
@@ -2613,7 +2613,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9948851009414404 0.005114899058559552"
+                probs_occur="0.9998974447605037 0.00010255523949631584"
                 >
                     <magnitude>
                         7.87477604103244
@@ -2624,7 +2624,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9962564766980898 0.00374352330191019"
+                probs_occur="0.9999249918568172 7.500814318284199e-05"
                 >
                     <magnitude>
                         7.875174596676006
@@ -2635,7 +2635,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9998902308751307 0.00010976912486926338"
+                probs_occur="0.9999978044994113 2.1955005886642454e-06"
                 >
                     <magnitude>
                         7.895473170173716
@@ -2646,7 +2646,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9642455243814407 0.03575447561855927"
+                probs_occur="0.9992720785942507 0.0007279214057492878"
                 >
                     <magnitude>
                         7.456221883333015
@@ -2657,7 +2657,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9967954023880103 0.003204597611989657"
+                probs_occur="0.9999358071938231 6.419280617686596e-05"
                 >
                     <magnitude>
                         7.155228191596363
@@ -2668,7 +2668,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.970695481031451 0.02930451896854902"
+                probs_occur="0.9994053274149579 0.0005946725850420886"
                 >
                     <magnitude>
                         7.33133091816908
@@ -2679,7 +2679,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9901767117196364 0.009823288280363607"
+                probs_occur="0.9998025823875092 0.00019741761249081335"
                 >
                     <magnitude>
                         7.251182482700626
@@ -2690,7 +2690,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9832596149179889 0.016740385082011144"
+                probs_occur="0.9996624152144385 0.0003375847855614511"
                 >
                     <magnitude>
                         7.783509108927783
@@ -2701,7 +2701,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9664457392152278 0.033554260784772194"
+                probs_occur="0.9993176304513521 0.0006823695486478654"
                 >
                     <magnitude>
                         7.594510766990657
@@ -2712,7 +2712,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9479563833957152 0.052043616604284804"
+                probs_occur="0.998931635371058 0.001068364628941998"
                 >
                     <magnitude>
                         7.252143505319438
@@ -2723,7 +2723,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9834591670675995 0.016540832932400495"
+                probs_occur="0.9996664724328099 0.0003335275671900728"
                 >
                     <magnitude>
                         7.55226467884001
@@ -2734,7 +2734,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9837111630446684 0.016288836955331565"
+                probs_occur="0.9996715947665985 0.0003284052334014964"
                 >
                     <magnitude>
                         7.552616593767664
@@ -2745,7 +2745,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9956560633903968 0.004343936609603194"
+                probs_occur="0.9999129358120141 8.706418798587467e-05"
                 >
                     <magnitude>
                         7.552847420120581
@@ -2756,7 +2756,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9846782558284056 0.015321744171594376"
+                probs_occur="0.9996912409759054 0.00030875902409455147"
                 >
                     <magnitude>
                         7.154007958324748
@@ -2767,7 +2767,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9951731288072074 0.00482687119279257"
+                probs_occur="0.9999032335190107 9.676648098932983e-05"
                 >
                     <magnitude>
                         7.455266364473099
@@ -2778,7 +2778,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.999999965461487 3.453851304957567e-08"
+                probs_occur="0.9999999993092298 6.907702188030385e-10"
                 >
                     <magnitude>
                         7.455648377346143
@@ -2789,7 +2789,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9985258533436606 0.0014741466563393812"
+                probs_occur="0.9999704957496683 2.9504250331657822e-05"
                 >
                     <magnitude>
                         7.154772050331708
@@ -2800,7 +2800,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9951927626089292 0.004807237391070807"
+                probs_occur="0.9999036280576387 9.637194236133961e-05"
                 >
                     <magnitude>
                         7.455903770274098
@@ -2811,7 +2811,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9633050136437384 0.03669498635626156"
+                probs_occur="0.9992525757691987 0.000747424230801319"
                 >
                     <magnitude>
                         7.398225662489143
@@ -2822,7 +2822,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9905161565440197 0.009483843455980301"
+                probs_occur="0.9998094361301361 0.0001905638698639356"
                 >
                     <magnitude>
                         8.899207160187423
@@ -2833,7 +2833,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9997327739357482 0.00026722606425177986"
+                probs_occur="0.9999946547787758 5.345221224195562e-06"
                 >
                     <magnitude>
                         8.897156461088759
@@ -2844,7 +2844,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9979530024215054 0.0020469975784945804"
+                probs_occur="0.9999590189289161 4.098107108385651e-05"
                 >
                     <magnitude>
                         8.897016258653847
@@ -2855,7 +2855,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9739718569268194 0.026028143073180576"
+                probs_occur="0.9994726816795471 0.0005273183204529408"
                 >
                     <magnitude>
                         8.898914426218008
@@ -2866,7 +2866,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9981015615147275 0.0018984384852724911"
+                probs_occur="0.999961995866104 3.800413389598578e-05"
                 >
                     <magnitude>
                         8.8890215450479
@@ -2877,7 +2877,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9981326066802432 0.001867393319756827"
+                probs_occur="0.9999626179172807 3.73820827193061e-05"
                 >
                     <magnitude>
                         8.878898733242004
@@ -2888,7 +2888,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9981117269854012 0.001888273014598818"
+                probs_occur="0.9999621995534643 3.780044653567405e-05"
                 >
                     <magnitude>
                         8.868535686373908
@@ -2899,7 +2899,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9982524197615784 0.0017475802384215866"
+                probs_occur="0.9999650184311062 3.498156889381043e-05"
                 >
                     <magnitude>
                         8.857922520260914
@@ -2910,7 +2910,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9998557529768378 0.00014424702316218063"
+                probs_occur="0.9999971148556067 2.8851443932831344e-06"
                 >
                     <magnitude>
                         8.796099129503297
@@ -2921,7 +2921,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9974809373707153 0.0025190626292846963"
+                probs_occur="0.9999495564561979 5.044354380212557e-05"
                 >
                     <magnitude>
                         8.795996392895717
@@ -2932,7 +2932,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9953362326440952 0.004663767355904791"
+                probs_occur="0.9999065108373634 9.348916263662854e-05"
                 >
                     <magnitude>
                         8.798217214168286
@@ -2943,7 +2943,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9993452922510243 0.0006547077489756914"
+                probs_occur="0.9999869016425106 1.3098357489416124e-05"
                 >
                     <magnitude>
                         8.795729910613165
@@ -2954,7 +2954,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9955495154613342 0.004450484538665811"
+                probs_occur="0.9999107956304122 8.920436958781419e-05"
                 >
                     <magnitude>
                         8.78819548072749
@@ -2965,7 +2965,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.997878180963148 0.002121819036852046"
+                probs_occur="0.9999575194366414 4.2480563358648915e-05"
                 >
                     <magnitude>
                         8.775409927500654
@@ -2976,7 +2976,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9961935573412921 0.003806442658707887"
+                probs_occur="0.9999237287968348 7.627120316522351e-05"
                 >
                     <magnitude>
                         8.762239132647805
@@ -2987,7 +2987,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9959819235523824 0.004018076447617647"
+                probs_occur="0.9999194798298023 8.052017019766211e-05"
                 >
                     <magnitude>
                         8.298814351715103
@@ -2998,7 +2998,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9951676928741696 0.004832307125830382"
+                probs_occur="0.9999031242833126 9.687571668737238e-05"
                 >
                     <magnitude>
                         8.395849519051295
@@ -3009,7 +3009,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9946143842674515 0.005385615732548477"
+                probs_occur="0.999892002423321 0.00010799757667900867"
                 >
                     <magnitude>
                         8.599618736348335
@@ -3020,7 +3020,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9610883856812688 0.03891161431873125"
+                probs_occur="0.9992065369258836 0.0007934630741164295"
                 >
                     <magnitude>
                         8.748659429327914
@@ -3031,7 +3031,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9996564846962154 0.000343515303784625"
+                probs_occur="0.999993128537235 6.871462765012382e-06"
                 >
                     <magnitude>
                         7.998294737949953
@@ -3042,7 +3042,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8859182235362244 0.1140817764637756"
+                probs_occur="0.9975803195350808 0.0024196804649192494"
                 >
                     <magnitude>
                         7.696786054217371
@@ -3053,7 +3053,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9777099714167872 0.02229002858321283"
+                probs_occur="0.9995492575015089 0.0004507424984910857"
                 >
                     <magnitude>
                         7.873004903614195
@@ -3064,7 +3064,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9933895584013684 0.006610441598631556"
+                probs_occur="0.99986736105062 0.00013263894937998177"
                 >
                     <magnitude>
                         8.298709956806208
@@ -3075,7 +3075,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9986337687356563 0.0013662312643436536"
+                probs_occur="0.9999726570656405 2.7342934359464444e-05"
                 >
                     <magnitude>
                         8.699266446047396
@@ -3086,7 +3086,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9995763278464432 0.00042367215355676446"
+                probs_occur="0.9999915247973555 8.475202644464552e-06"
                 >
                     <magnitude>
                         7.873255550905313
@@ -3097,7 +3097,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8859398097672259 0.11406019023277414"
+                probs_occur="0.9975808056689371 0.002419194331062857"
                 >
                     <magnitude>
                         7.69728599206953
@@ -3108,7 +3108,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9765808898019012 0.023419110198098836"
+                probs_occur="0.9995261583856642 0.0004738416143358348"
                 >
                     <magnitude>
                         7.697508922876054
@@ -3119,7 +3119,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8047058417872051 0.19529415821279494"
+                probs_occur="0.9956638586802299 0.004336141319770115"
                 >
                     <magnitude>
                         7.396585504011524
@@ -3130,7 +3130,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9691856242862091 0.030814375713790865"
+                probs_occur="0.9993742134320145 0.000625786567985509"
                 >
                     <magnitude>
                         8.194009385223962
@@ -3141,7 +3141,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9893198735269684 0.010680126473031626"
+                probs_occur="0.9997852716898025 0.0002147283101975317"
                 >
                     <magnitude>
                         8.298608071221842
@@ -3152,7 +3152,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9764263880865028 0.02357361191349716"
+                probs_occur="0.9995229955042189 0.00047700449578114146"
                 >
                     <magnitude>
                         8.291046568351346
@@ -3163,7 +3163,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9890918846471527 0.010908115352847303"
+                probs_occur="0.9997806631567432 0.00021933684325681213"
                 >
                     <magnitude>
                         8.395646477055688
@@ -3174,7 +3174,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9997395750953975 0.00026042490460254086"
+                probs_occur="0.9999947908371466 5.209162853403448e-06"
                 >
                     <magnitude>
                         8.479839801112577
@@ -3185,7 +3185,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.996927866796505 0.0030721332034949755"
+                probs_occur="0.9999384646555377 6.153534446229347e-05"
                 >
                     <magnitude>
                         8.591606481851832
@@ -3196,7 +3196,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9992622340169676 0.0007377659830324346"
+                probs_occur="0.9999852393436138 1.476065638617019e-05"
                 >
                     <magnitude>
                         8.699178729693502
@@ -3207,7 +3207,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9540417654550193 0.045958234544980714"
+                probs_occur="0.9990594859770416 0.0009405140229583608"
                 >
                     <magnitude>
                         7.997793027801324
@@ -3218,7 +3218,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9303862370021745 0.06961376299782551"
+                probs_occur="0.9985579313727271 0.0014420686272729188"
                 >
                     <magnitude>
                         8.290941948832605
@@ -3229,7 +3229,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9856835587946081 0.014316441205391883"
+                probs_occur="0.999711643379258 0.00028835662074200297"
                 >
                     <magnitude>
                         8.699096965587662
@@ -3240,7 +3240,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9922197599118352 0.007780240088164803"
+                probs_occur="0.9998437989194052 0.00015620108059477555"
                 >
                     <magnitude>
                         7.592492827481943
@@ -3251,7 +3251,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9993567915736608 0.0006432084263392479"
+                probs_occur="0.9999871317753238 1.2868224676165774e-05"
                 >
                     <magnitude>
                         8.591469587940528
@@ -3262,7 +3262,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.943740656038438 0.05625934396156196"
+                probs_occur="0.9988425927259789 0.0011574072740211383"
                 >
                     <magnitude>
                         8.689689382217743
@@ -3273,7 +3273,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9995676537569251 0.0004323462430748659"
+                probs_occur="0.9999913512427675 8.648757232498916e-06"
                 >
                     <magnitude>
                         8.499605948281449
@@ -3284,7 +3284,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.998624258370436 0.001375741629563998"
+                probs_occur="0.9999724666024327 2.7533397567336415e-05"
                 >
                     <magnitude>
                         8.595290730383402
@@ -3295,7 +3295,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9876445765629573 0.012355423437042656"
+                probs_occur="0.999751383184739 0.00024861681526100465"
                 >
                     <magnitude>
                         7.981550858642747
@@ -3306,7 +3306,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9917047073463873 0.00829529265361273"
+                probs_occur="0.9998334160755039 0.00016658392449608872"
                 >
                     <magnitude>
                         8.29831504578486
@@ -3317,7 +3317,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9394038264445708 0.060596173555429234"
+                probs_occur="0.9987505845280124 0.0012494154719876471"
                 >
                     <magnitude>
                         8.395361640816756
@@ -3328,7 +3328,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.998702098862216 0.0012979011377840521"
+                probs_occur="0.999974025454525 2.597454547503819e-05"
                 >
                     <magnitude>
                         8.595290676098172
@@ -3339,7 +3339,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9900211709634161 0.00997882903658387"
+                probs_occur="0.9997994410892154 0.00020055891078463173"
                 >
                     <magnitude>
                         8.298419571118995
@@ -3350,7 +3350,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9962566539419875 0.00374334605801252"
+                probs_occur="0.9999249954147481 7.500458525189213e-05"
                 >
                     <magnitude>
                         8.595183640108912
@@ -3361,7 +3361,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9979718048352748 0.0020281951647251883"
+                probs_occur="0.9999593957296193 4.0604270380661944e-05"
                 >
                     <magnitude>
                         8.499381529760345
@@ -3372,7 +3372,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9906176738471802 0.009382326152819753"
+                probs_occur="0.9998114854225197 0.0001885145774802588"
                 >
                     <magnitude>
                         7.396013965120353
@@ -3383,7 +3383,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9300821116605741 0.06991788833942592"
+                probs_occur="0.9985514021397615 0.001448597860238543"
                 >
                     <magnitude>
                         8.598822080693832
@@ -3394,7 +3394,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9724363374328233 0.027563662567176683"
+                probs_occur="0.9994411428503357 0.0005588571496643047"
                 >
                     <magnitude>
                         7.99740704840727
@@ -3405,7 +3405,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9961674564207541 0.003832543579245895"
+                probs_occur="0.9999232048170386 7.679518296144217e-05"
                 >
                     <magnitude>
                         8.582980356721773
@@ -3416,7 +3416,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9885858414429045 0.011414158557095488"
+                probs_occur="0.9997704303543898 0.00022956964561016147"
                 >
                     <magnitude>
                         8.297813199558098
@@ -3427,7 +3427,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9938878808136395 0.006112119186360454"
+                probs_occur="0.9998773900242247 0.00012260997577528965"
                 >
                     <magnitude>
                         8.394868966547547
@@ -3438,7 +3438,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9821748291796099 0.017825170820390146"
+                probs_occur="0.9996403456374214 0.0003596543625785653"
                 >
                     <magnitude>
                         7.395618840677152
@@ -3449,7 +3449,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9695009240352525 0.030499075964747546"
+                probs_occur="0.9993807148123782 0.0006192851876217764"
                 >
                     <magnitude>
                         8.394325581481827
@@ -3460,7 +3460,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9907317224214939 0.009268277578506123"
+                probs_occur="0.9998137874335856 0.00018621256641437878"
                 >
                     <magnitude>
                         8.488909737495147
@@ -3471,7 +3471,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9031941937419837 0.09680580625801627"
+                probs_occur="0.9979657180677743 0.0020342819322256567"
                 >
                     <magnitude>
                         8.493888781279686
@@ -3482,7 +3482,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9583233149972245 0.04167668500277555"
+                probs_occur="0.9991489609715176 0.000851039028482381"
                 >
                     <magnitude>
                         8.192366283652332
@@ -3493,7 +3493,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9938509579852572 0.006149042014742756"
+                probs_occur="0.9998766471039408 0.00012335289605924782"
                 >
                     <magnitude>
                         7.780599284319976
@@ -3504,7 +3504,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9764100188363448 0.023589981163655183"
+                probs_occur="0.9995226603724249 0.00047733962757512405"
                 >
                     <magnitude>
                         8.08134341782196
@@ -3515,7 +3515,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8664323285579036 0.13356767144209636"
+                probs_occur="0.9971366817310929 0.002863318268907067"
                 >
                     <magnitude>
                         8.092820819633042
@@ -3526,7 +3526,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.856640625209076 0.14335937479092398"
+                probs_occur="0.9969100479824338 0.003089952017566233"
                 >
                     <magnitude>
                         7.996938688155382
@@ -3537,7 +3537,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9851272371147487 0.0148727628852513"
+                probs_occur="0.999700355474059 0.00029964452594100077"
                 >
                     <magnitude>
                         7.780421435129529
@@ -3548,7 +3548,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9337571656910018 0.06624283430899824"
+                probs_occur="0.998630161716868 0.0013698382831319744"
                 >
                     <magnitude>
                         7.249256457175266
@@ -3559,7 +3559,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.6174406069447096 0.3825593930552904"
+                probs_occur="0.9904029009729817 0.00959709902701833"
                 >
                     <magnitude>
                         7.328384097033947
@@ -3570,7 +3570,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.999898438249959 0.00010156175004094603"
+                probs_occur="0.9999979686639074 2.031336092556124e-06"
                 >
                     <magnitude>
                         7.996145452765445
@@ -3581,7 +3581,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9594443592846896 0.04055564071531037"
+                probs_occur="0.9991723236232686 0.0008276763767314232"
                 >
                     <magnitude>
                         7.249159179234498
@@ -3592,7 +3592,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9832814357419845 0.016718564258015545"
+                probs_occur="0.9996628589064216 0.00033714109357840805"
                 >
                     <magnitude>
                         8.080222461975408
@@ -3603,7 +3603,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9761001995865543 0.02389980041344575"
+                probs_occur="0.9995163163261258 0.0004836836738741912"
                 >
                     <magnitude>
                         7.996597779798709
@@ -3614,7 +3614,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.994143827538527 0.005856172461472964"
+                probs_occur="0.9998825391574615 0.00011746084253849709"
                 >
                     <magnitude>
                         7.152204464705328
@@ -3625,7 +3625,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.98593543278509 0.014064567214910006"
+                probs_occur="0.9997167519120271 0.00028324808797286494"
                 >
                     <magnitude>
                         7.752449303335956
@@ -3636,7 +3636,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9715369742864727 0.028463025713527323"
+                probs_occur="0.9994226476935847 0.000577352306415313"
                 >
                     <magnitude>
                         7.780028040210754
@@ -3647,7 +3647,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9747168539462722 0.025283146053727834"
+                probs_occur="0.9994879660067847 0.0005120339932153106"
                 >
                     <magnitude>
                         7.694374571813274
@@ -3658,7 +3658,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9905455640882114 0.009454435911788628"
+                probs_occur="0.9998100297905678 0.00018997020943223308"
                 >
                     <magnitude>
                         7.394832044737837
@@ -3669,7 +3669,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.911548700525508 0.08845129947449204"
+                probs_occur="0.9981495091274034 0.0018504908725965885"
                 >
                     <magnitude>
                         7.778789577073034
@@ -3680,7 +3680,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8588029890386484 0.14119701096135162"
+                probs_occur="0.9969603145770298 0.003039685422970173"
                 >
                     <magnitude>
                         7.590807201502011
@@ -3691,7 +3691,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9803226793558625 0.01967732064413752"
+                probs_occur="0.9996026090434232 0.0003973909565767597"
                 >
                     <magnitude>
                         7.548241174184014
@@ -3702,7 +3702,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9571339609400972 0.04286603905990283"
+                probs_occur="0.9991241454398789 0.0008758545601210699"
                 >
                     <magnitude>
                         7.151622470023192
@@ -3713,7 +3713,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.7973485517933402 0.2026514482066598"
+                probs_occur="0.9954809743416989 0.00451902565830109"
                 >
                     <magnitude>
                         7.150249574719599
@@ -3724,7 +3724,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8288707774710363 0.17112922252896368"
+                probs_occur="0.9962532165037272 0.0037467834962727764"
                 >
                     <magnitude>
                         7.393746413983447
@@ -3735,7 +3735,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.8908948629324912 0.1091051370675088"
+                probs_occur="0.9976920901800843 0.0023079098199156878"
                 >
                     <magnitude>
                         7.327548614375157
@@ -3746,7 +3746,7 @@ xmlns:gml="http://www.opengis.net/gml"
                     </rake>
                 </multiPlanesRupture>
                 <multiPlanesRupture
-                probs_occur="0.9741560184007453 0.025843981599254717"
+                probs_occur="0.9994764609943054 0.0005235390056945732"
                 >
                     <magnitude>
                         7.025390000988725
