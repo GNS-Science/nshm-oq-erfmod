@@ -1,0 +1,12 @@
+name: modsen
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - pip
+    - python=3.8
+    - numpy
+    - matplotlib
+    - cartopy
+    - pip:
+        - git+https://github.com/gem/oq-engine.git
