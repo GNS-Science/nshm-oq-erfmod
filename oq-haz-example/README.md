@@ -11,7 +11,7 @@ conda env create -f environment.yml
 ## Quick Description
 
 ```
-_Hik-interface-ERF_ contains files for source model
+***Hik-interface-ERF*** contains files for source model
 
 _gmm_ contains files for ground motion models
 
