@@ -25,6 +25,6 @@ optional argument can be: --exports csv
 
 ```
 
-More details can be found online: https://github.com/GNS-Science/nshm-oq-erfmod/tree/main/oq-haz-example
+More details can be found online: https://docs.openquake.org/manuals/OpenQuake%20Manual%20%28latest%29.pdf
 
 
