@@ -25,3 +25,6 @@ optional argument can be: --exports csv
 
 ```
 
+More details can be found online: https://github.com/GNS-Science/nshm-oq-erfmod/tree/main/oq-haz-example
+
+
