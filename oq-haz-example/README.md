@@ -11,11 +11,10 @@ conda env create -f environment.yml
 ## Quick Description
 
 ```
-***Hik-interface-ERF*** contains files for source model
+*Hik-interface-ERF* contains files for source model
+*gmm* contains files for ground motion models
 
-_gmm_ contains files for ground motion models
-
-job file is _hazmapjob-grin-hik-MSR_LW.ini_
+job file is*hazmapjob-grin-hik-MSR_LW.ini*
 ```
 
 ## Command  
