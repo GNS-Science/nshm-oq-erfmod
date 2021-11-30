@@ -1,4 +1,4 @@
-name: oqhazexample
+name: oqhaz
 channels:
     - conda-forge
     - defaults
