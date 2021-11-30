@@ -1,5 +1,5 @@
 # oq-haz-example
-An example workout for hazard calculation using OpenQuake. This example is based on Grand Inversion ERF model for Hikurangi-interface. 
+An example workout for hazard calculation using OpenQuake to generate a hazard map. This example is based on Grand Inversion ERF model for Hikurangi-interface. 
 
 ## Setup conda environment
 
@@ -16,3 +16,19 @@ with
 - git+http://github.com/GNS-Science/oq-engine.git@gm-sensitivity-tests
 ```
 and enter your GitHub username and pass key.
+
+
+
+## Quick Description
+
+Hik-interface-ERF  contains files for source model
+gmm contains files for ground motion models
+...
+job file is hazmapjob-grin-hik-MSR_LW.ini
+...
+
+## Command  
+
+oq engine --run hazmapjob-grin-hik-MSR_LW.ini --exports csv
+
+
