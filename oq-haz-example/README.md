@@ -9,15 +9,17 @@ conda env create -f environment.yml
 ```
 
 ## Quick Description
-...
+
+```
 Hik-interface-ERF  contains files for source model
+```
 gmm contains files for ground motion models
-...
+```
 job file is hazmapjob-grin-hik-MSR_LW.ini
-...
+```
 
 ## Command  
-...
+```
 oq engine --run hazmapjob-grin-hik-MSR_LW.ini --exports csv
-....
+```
 
