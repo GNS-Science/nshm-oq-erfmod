@@ -2,8 +2,10 @@
 This repository contains an assemble of source models for testing and hazard sensivity analysis using OpenQuake. 
 
 ```
-These models are intented only for the stated purpose. There is no guarantee that these models are final and correct. 
-The dataset is meant for intended team members and not for wider distribution. Thanks!
+These models are intented only for the stated purpose.  
+There is no guarantee that these models are final and correct.   
+The dataset is meant for intended team members and not for wider distribution.   
+Thanks!
 ```
 
 ## hik-interface-erf 
