@@ -21,10 +21,13 @@ job file is hazmapjob-grin-hik-MSR_LW.ini
 ```
 oq engine --run hazmapjob-grin-hik-MSR_LW.ini
 
-optional argument can be: --exports csv
+optional argument can be: --exports csv  
+
+see https://docs.openquake.org/manuals/OpenQuake%20Manual%20%28latest%29.pdf
+
+
+Caculations can be done from a python scrip as well.  
+
+see https://docs.openquake.org/oq-engine/advanced/developing.html
 
 ```
-
-More details can be found online: https://docs.openquake.org/manuals/OpenQuake%20Manual%20%28latest%29.pdf
-
-
